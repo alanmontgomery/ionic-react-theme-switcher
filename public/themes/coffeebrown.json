@@ -1,0 +1,16 @@
+{
+    "toolbar_background_color": "#5f361e",
+	"tab_bar_background_color": "#5f361e",
+    "toolbar_color": "#d1bfb5",
+	"tab_bar_color": "#886551",
+    "tab_bar_activated_color": "",
+    
+    "main_color": "#5f361e",
+    "light_color": "#886551",
+    
+    "main_color_tint": "#855a41",
+    "main_color_shade": "#57331e",
+
+    "light_color_tint": "#9c7d6b",
+    "light_color_shade": "#61412f"
+}
