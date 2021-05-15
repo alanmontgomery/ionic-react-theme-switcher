@@ -1,7 +1,7 @@
 # ionic-react-theme-switcher
 An example of dynamic themes using Ionic React
 
-![Ionic React E-Commerce App](https://repository-images.githubusercontent.com/355272810/25392780-9707-11eb-95b2-bb9c6eefd313)
+![Ionic React Dynamic Theme Switcher](https://repository-images.githubusercontent.com/367745915/4f6de700-b5db-11eb-99e3-c71b9034f186)
 
 ### Included in this Ionic React Template/UI
 * Utilising Ionic CSS variables
